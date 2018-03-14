@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Betelgeuse Bookstore</title>
+        <link>https://lucifertvseries.000webhostapp.com/</link>
+        <description>Read about tv series Lucifer</description>
+    <item>
+        <title>Shop by category</title>
+    <link>
+    https://lucifertvseries.000webhostapp.com/story.html
+    </link>
+    <description>Story of the series</description>
+    </item>
+    <item>
+    <title>Galery</title>
+    <link>
+    https://lucifertvseries.000webhostapp.com/galery.html
+    </link>
+    <description>We have added some new pictures to our galery</description>
+    </item>
+    <item>
+    <title>Contact</title>
+    <link>
+    https://lucifertvseries.000webhostapp.com/contact.html
+    </link>
+    <description>We have changed some contact information</description>
+    </item>
+    </channel>
+</rss>

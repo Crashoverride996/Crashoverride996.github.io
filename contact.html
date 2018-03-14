@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="author" content="Adam Bogdanovic"/>
+        <meta name="keywords" content="Sign In, Join"/>
+        <meta name="description" content="Page where you can register or sign in"/>
+        <link rel="stylesheet" href="style.css"/>
+        <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+        <title>Betelgeuse Bookstore</title>
+        <!-- possible color  #4c394e -->
+    </head>
+    <body>
+        <header>
+            <div id="logo">
+                <a href="index.html">
+                    <img src="images/betelgeuse.png" alt="Betelgeuse"/>
+                    <h4>Finding good homes for books since 1972.</h4>
+                </a>
+            </div>
+            <div id="headers">
+                <hgroup>
+                    <h1>Betelgeuse Bookstore</h1>
+                    <h5>"Funny," he intoned funereally, "how just when you think life can't possibly get any worse it suddenly does."</h5>
+                </hgroup>
+            </div>
+            <div id="search">
+                <a href="shop.html">Advanced Search</a>
+            </div>
+            <div class="cleaner"></div>
+        </header>
+        <nav>
+            <ul id="list">
+                <li><a href="shop.html">Shop by category</a>
+                </li>
+                <li><a href="bestsellers.html">Bestsellers</a></li>
+                <li><a href="promotions.html">Promotions</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="author.html">Author</a></li>
+            </ul>
+            <div id="cart">
+                <ul>
+                    <li>
+                        <a href="cart">
+                            <img src="images/cart.png">
+                            <h6>Items</h6>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="contact.html">
+                            <img src="images/signin.png">
+                        <h6>Sign In/Join</h6>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="cleaner"></div>
+        </nav>
+        
+        
+        <content>
+            <div id="forms">
+                <div id="form1">
+                    <h2>Sign in</h2>
+                    <form id="signin">
+                        <label class="label-control">Email address</label><span id="error1"></span>
+                        <input type="email" name="username1" id="username1" class="form-control" required/>
+                        <label class="label-control">Password</label><span id="error2"></span>
+                        <input type="password" name="password" id="password1" class="form-control" required/>
+                        <div class="buttonWrap">
+                            <button type="submit" id="login">
+                                Login
+                            </button>
+                        </div>
+                        <p id="forpas"><a href="#">Forgotten password?</a></p>
+                    </form>
+                </div>
+                <div id="form2">
+                    <h2>Join</h2>
+                    <form id="join">
+                        <label class="label-control">Email address</label><span id="error3"></span>
+                        <input type="email" name="username2" id="username2" class="form-control" required/>
+                        <label class="label-control">Name</label><span id="error4"></span>
+                        <input type="text" name="custName" id="custName" class="form-control" required/>
+                        <label class="label-control">Password</label><span id="error5"></span>
+                        <input type="password" name="password" id="password2" class="form-control" required/>
+                        <div class="help-block">Please enter a password with at least six characters.</div>
+                        <label class="label-control">Verify Password</label><span id="error6"></span>
+                        <input type="password" name="password" id="password3" class="form-control" required/>
+                        <div class="buttonWrap">
+                            <button type="submit" id="register">
+                                Register
+                            </button>
+                        </div>
+                    </form>
+                </div>
+                <a href="#" class="scrollToTop"></a>
+            </div>
+                        
+
+        </content>
+        <footer>
+            <div class="footerList">
+                <h4>Explore</h4>
+                <ul>
+                    <li><a href="author.html">About us</a></li>
+                    <li><a href="contact.html">Sign In/Join</a></li>
+                    <li><a href="contact.html">Contact us</a></li>
+                    <li><a href="contact.html">Help</a></li>
+                    <li><a href="sitemap.xml" target="_blank">Sitemap</a></li>
+                    <li><a href="documentation.pdf">Documentation</a></li>
+                </ul>
+            </div>
+            <div class="footerList">
+                <h4>Stay in contact with us</h4>
+                <ul>
+                    <li><a href="https://www.instagram.com/adambogdanovic/"><img src="images/instagram.png" alt="instagram"> Instagram</a></li>
+                    <li><a href="https://www.facebook.com/bogdanovicadam"><img src="images/facebook.png" alt="facebook"> Facebook</a></li>
+                    <li><a href="https://plus.google.com/105465187661642368702"><img src="images/googleplus.png" alt="google+"> Google+</a></li>
+                    <li><a href="https://www.linkedin.com/in/adam-bogdanovic-965569123"><img src="images/linkedin.png" alt="linkedin"> LinkedIn</a></li>
+                    <li><a href="https://twitter.com/BogdanovicAdam"><img src="images/twitter.png" alt="twitter"> Twitter</a></li>
+                </ul>
+            </div>
+            <div class="footerList">
+                    <h4>Join us</h4>
+                    <ul>
+                        <li><a href="contact.html">Affiliates</a></li>
+                        <li><a href="contact.html">Jobs</a></li>
+                        <li><a href="rss.xml" target="_blank">RSS</a></li>
+                    </ul>
+                </div>
+            <div id="footerListR">
+                <p>We accept these payment methods</p>
+                <img src="images/payment.png" alt="Payment Options">
+                <p>&copy; 2018 The Betelgeuse Bookstore Ltd.</p>
+            </div>
+            <div class="cleaner"></div>
+        </footer>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+        </script>
+        <script src="scriptContact.js"></script>
+    </body>
+</html>

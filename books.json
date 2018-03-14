@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "name": "1984",
+        "author": "George Orwell",
+        "img": "images/1984.jpg",
+        "price": 15        
+    },
+    {
+        "id": 2,
+        "name": "A Dog's Heart",
+        "author": "Mikhail Bulgakov",
+        "img": "images/ADogsHeart.jpg",
+        "price": 7.99
+    },
+    {
+        "id": 3,
+        "name": "A Farewell to Arms",
+        "author": "Ernest Hemingway",
+        "img": "images/AFarewellToArms.jpg",
+        "price": 19.49
+    },
+    {
+        "id": 4,
+        "name": "Animal Farm",
+        "author": "George Orwell",
+        "img": "images/AnimalFarm.jpg",
+        "price": 14.49
+    },
+    {
+        "id": 5,
+        "name": "Blood of Elves",
+        "author": "Andrzej Sapkowski",
+        "img": "images/BloodofElves.jpg",
+        "price": 17
+    },
+    {
+        "id": 6,
+        "name": "Breakfast of Champions",
+        "author": "Kurt Vonnegut",
+        "img": "images/BreakfastOfChampions.jpg",
+        "price": 14.49
+    },
+    {
+        "id": 7,
+        "name": "Catcher in the Rye",
+        "author": "J. D. Salinger",
+        "img": "images/Catcher.jpg",
+        "price": 11.49
+    },
+    {
+        "id": 8,
+        "name": "Fight Club",
+        "author": "Chuck Palahniuk",
+        "img": "images/FightClub.jpg",
+        "price": 14.99
+    },
+    {
+        "id": 9,
+        "name": "Green Mile",
+        "author": "Stephen King",
+        "img": "images/GreenMile.jpg",
+        "price": 20.49
+    },
+    {
+        "id": 10,
+        "name": "Lady of the Lake",
+        "author": "Andrzej Sapkowski",
+        "img": "images/LadyOfTheLake.jpg",
+        "price": 15.99
+    },
+    {
+        "id": 11,
+        "name": "Master and Margarite",
+        "author": "Mikhail Bulgakov",
+        "img": "images/MasterAndMargarite.jpg",
+        "price": 19.49
+    },
+    {
+        "id": 12,
+        "name": "Necronomicon",
+        "author": "H. P. Lovecraft",
+        "img": "images/Necronomicon.jpg",
+        "price": 25.99
+    },
+    {
+        "id": 13,
+        "name": "Pet Sematary",
+        "author": "Stephen King",
+        "img": "images/PetSematary.jpg",
+        "price": 12
+    },
+    {
+        "id": 14,
+        "name": "Savages",
+        "author": "Don Winslow",
+        "img": "images/Savages.jpg",
+        "price": 14.49
+    },
+    {
+        "id": 15,
+        "name": "Season of Storms",
+        "author": "Andrzej Sapkowski",
+        "img": "images/SeasonOfStorms.jpg",
+        "price": 17.99
+    },
+    {
+        "id": 16,
+        "name": "Sword of Destiny",
+        "author": "Andrzej Sapkowski",
+        "img": "images/SwordOfDestiny.jpg",
+        "price": 15.49
+    },
+    {
+        "id": 17,
+        "name": "The Best Intentions",
+        "author": "Ingmar Bergman",
+        "img": "images/TheBestIntentions.jpg",
+        "price": 19.49
+    },
+    {
+        "id": 18,
+        "name": "The Day Watch",
+        "author": "Sergei Lukyanenko",
+        "img": "images/TheDayWatch.jpg",
+        "price": 14
+    },
+    {
+        "id": 19,
+        "name": "The Gunslinger",
+        "author": "Stephen King",
+        "img": "images/TheGunslinger.jpg",
+        "price": 14.49
+    },
+    {
+        "id": 20,
+        "name": "Time of Contempt",
+        "author": "Andzrej Sapkowski",
+        "img": "images/TimeOfContempt.jpg",
+        "price": 16
+    },
+    {
+        "id": 21,
+        "name": "The Last Wish",
+        "author": "Andzrej Sapkowski",
+        "img": "images/TheLastWish.jpg",
+        "price": 19.99
+    },
+    {
+        "id": 22,
+        "name": "The Night Watch",
+        "author": "Sergei Lukyanenko",
+        "img": "images/TheNightWatch.jpg",
+        "price": 12.99
+    },
+    {
+        "id": 23,
+        "name": "The Stranger",
+        "author": "Albert Camus",
+        "img": "images/TheStranger.jpg",
+        "price": 9.99
+    },
+    {
+        "id": 24,
+        "name": "The Tower of the Swallow",
+        "author": "Andzrej Sapkowski",
+        "img": "images/TheTower.jpg",
+        "price": 17
+    },
+    {
+        "id": 25,
+        "name": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "img": "images/TheHitchhikersGuide.jpg",
+        "price": 25.99
+    }
+]

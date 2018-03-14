@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Hitchhiker's Guide to the Galaxy",
+        "img": "images/TheHitchhikersGuide.jpg",
+        "author": "Douglas Adams",
+        "description": "The Hitchhiker's Guide to the galaxy (sometimes reffered to as HG2G, HHGTTG or H2G2) is a comedy science fiction series created by Douglas Adams. Originally a radio comedy broadcast on BBC Radio 4 in 1978, it was later adapted to other formats, including stage shows, novels, comic books, a 1981 TV series, a 1984 video game, and 2005 feature film. A prominent series in British popular culture, The Hitchhiker's Guide to the Galaxy has become an international multi-media phenomenon; the novels are the most widely distributed, having been translated into more than 30 languages by 2005."
+    },
+    {
+        "id": 2,
+        "name": "Master and Margarite",
+        "img": "images/MasterAndMargarite.jpg",
+        "author": "Mikhail Bulgakov",
+        "description": "The novel alternates between two settings. The first is 1930s Moscow, where Satan appears at the Patriarch Ponds in the guise of 'Professor' Woland, a mysterious gentleman 'magician' of uncertain origin. He arrives with a retinue that includes the grotesquely dressed valet Koroviev; the mischievous, gun-happy, fast-talking black cat Behemoth; the fanged hitman Azazello and the witch Hella. They wreak havoc targeting the literary elite and its trade union MASSOLIT. Its privileged HQ is Griboyedov's house. The association is made up of corrupt social climbers and their women (wives and mistresses alike), bureaucrats, profiteers, and, more generally, skeptics of the human spirit. The second setting is the Jerusalem of Pontius Pilate, described by Woland in his conversations with Berlioz and later reflected in the Master's novel. This part of the novel concerns Pontius Pilate's trial of Yeshua Ha-Notsri, his recognition of an affinity with, and spiritual need for, Yeshua, and his reluctant but resigned submission to Yeshua's execution."
+    },
+    {
+        "id": 3,
+        "name": "Fight Club",
+        "img": "images/FightClub.jpg",
+        "author": "Chuck Palahniuk",
+        "description": "Fight Club is a 1996 novel by Chuck Palahniuk. It follows the experiences of an unnamed protagonist struggling with insomnia. Inspired by his doctor's exasperated remark that insomnia is not suffering, the protagonist finds relief by impersonating a seriously ill person in several support groups. Then he meets a mysterious man named Tyler Durden and establishes an underground fighting club as radical psychotherapy. In 1999, director David Fincher adapted the novel into a film of the same name, starring Brad Pitt and Edward Norton. The film acquired a cult following despite lower than expected box-office results. The film's prominence heightened the profile of the novel and that of Palahniuk. The sequel Fight Club 2 was released in comic book form in May 2015."
+    },
+    {
+        "id": 5,
+        "name": "The Catcher in the Rye",
+        "img": "images/Catcher.jpg",
+        "author": "J. D. Salinger",
+        "description": "The Catcher in the Rye is a 1951 novel by J. D. Salinger. A classic novel originally published for adults, it has since become popular with adolescent readers for its themes of teenage angst and alienation. It has been translated into almost all of the world's major languages. Around 1 million copies are sold each year with total sales of more than 65 million books. The novel's protagonist Holden Caulfield has become an icon for teenage rebellion. The novel also deals with complex issues of innocence, identity, belonging, loss, and connection"
+    },
+    {
+        "id": 5,
+        "name": "Necronomicon",
+        "img": "images/Necronomicon.jpg",
+        "author": "H. P. Lovecraft",
+        "description": "The Necronomicon is a fictional grimoire (textbook of magic) appearing in the stories by horror writer H. P. Lovecraft and his followers. It was first mentioned in Lovecraft's 1924 short story 'The Hound', written in 1922, though its purported author, the 'Mad Arab' Abdul Alhazred, had been quoted a year earlier in Lovecraft's 'he Nameless City'. Among other things, the work contains an account of the Old Ones, their history, and the means for summoning them."
+    },
+    {
+        "id": 6,
+        "name": "The Last Wish",
+        "img": "images/TheLastWish.jpg",
+        "author": "Andrzej Sapkowski",
+        "description": "The Last Wish (Polish: Ostatnie życzenie) is the first (in its fictional chronology; published second in original Polish) of the two collections of short stories (the other being The Sword of Destiny) preceding the main Witcher Saga, written by Polish fantasy writer Andrzej Sapkowski. The first Polish edition was published in 1993, the first English edition in 2007. The book has also been translated into several other languages."
+    },  
+    {
+        "id": 7,
+        "name": "Cat's Cradle",
+        "img": "images/CatsCradle.jpg",
+        "author": "Kurt Vonnegut",
+        "description": "Cat's Cradle is the fourth novel by American writer Kurt Vonnegut, first published in 1963. It explores issues of science, technology, and religion, satirizing the arms race and many other targets along the way. After turning down his original thesis in 1947, the University of Chicago awarded Vonnegut his master's degree in anthropology in 1971 for Cat's Cradle. The title of the book derives from the string game 'cat's cradle'. Early in the book, the character Felix Hoenikker (a fictional co-inventor of the atom bomb) was playing cat's cradle when the bomb was dropped, and the game is later referred to by his son, Newton Hoenikker."
+    },
+    {
+        "id": 8,
+        "name": "The Gunslinger",
+        "img": "images/TheGunslinger.jpg",
+        "author": "Stephen King",
+        "description": "The Gunslinger is a fantasy novel by American author Stephen King, the first volume in the Dark Tower series. The Gunslinger was first published in 1982 as a fix-up novel, joining five short stories that had been published between 1978 and 1981. King substantially revised the novel in 2003, and this version is in print today. The story centers upon Roland Deschain, the last gunslinger, who has been chasing after his adversary, 'the man in black', for many years. The novel fuses Western fiction with fantasy, science fiction and horror, following Roland's trek through a vast desert and beyond in search of the man in black. Roland meets several people along his journey, including a boy named Jake Chambers who travels with him part of the way."
+    },
+    {
+        "id": 9,
+        "name": "A Farewell to Arms",
+        "img": "images/afarewelltoarms.jpg",
+        "author": "Ernest Hemingway",
+        "description": "A Farewell to Arms is a novel by Ernest Hemingway set during the Italian campaign of World War I. First published in 1929, it is a first-person account of an American, Frederic Henry, serving as a lieutenant ('tenente') in the ambulance corps of the Italian Army. The title is taken from a poem by the 16th-century English dramatist George Peele.The novel, set against the backdrop of World War I, describes a love affair between the expatriate Henry and an English nurse, Catherine Barkley. Its publication ensured Hemingway's place as a modern American writer of considerable stature. The book became his first best-seller, and has been called 'the premier American war novel from that debacle World War I.'"
+    },
+    {
+        "id": 10,
+        "name": "The Stranger",
+        "img": "images/TheStranger.jpg",
+        "author": "Albert Camus",
+        "description": "The Stranger is a 1942 novel by French author Albert Camus. Its theme and outlook are often cited as examples of Camus' philosophy of the absurd and existentialism, though Camus personally rejected the latter label. The title character is Meursault, an indifferent French Algerian described as 'a citizen of France domiciled in North Africa, a man of the Mediterranean, an homme du midi yet one who hardly partakes of the traditional Mediterranean culture'. He attends his mother's funeral. A few days later, he kills an Arab man in French Algiers, who was involved in a conflict with a friend. Meursault is tried and sentenced to death. The story is divided into two parts, presenting Meursault's first-person narrative view before and after the murder, respectively."
+    }
+]
