@@ -2,28 +2,35 @@
 <rss version="2.0">
     <channel>
         <title>Betelgeuse Bookstore</title>
-        <link>https://lucifertvseries.000webhostapp.com/</link>
-        <description>Read about tv series Lucifer</description>
+        <link>https://crashoverride996.github.io/</link>
+        <description>Betelgeuse Bookstore where you can find all books you need</description>
     <item>
         <title>Shop by category</title>
-    <link>
-    https://lucifertvseries.000webhostapp.com/story.html
-    </link>
-    <description>Story of the series</description>
+        <link>
+        https://crashoverride996.github.io/shop.html
+        </link>
+        <description>Here you can see all available books</description>
     </item>
     <item>
-    <title>Galery</title>
-    <link>
-    https://lucifertvseries.000webhostapp.com/galery.html
-    </link>
-    <description>We have added some new pictures to our galery</description>
+        <title>Bestsellers</title>
+        <link>
+        https://crashoverride996.github.io/bestsellers.html
+        </link>
+        <description>You can sign in or register if you already have an acount and ask questions</description>
     </item>
     <item>
-    <title>Contact</title>
-    <link>
-    https://lucifertvseries.000webhostapp.com/contact.html
-    </link>
-    <description>We have changed some contact information</description>
+        <title>Promotions</title>
+        <link>
+        https://crashoverride996.github.io/promotions.html
+        </link>
+        <description>Here you can see all books that are currently on sale</description>
+    </item>
+    <item>
+        <title>Contact</title>
+        <link>
+        https://crashoverride996.github.io/contact.html
+        </link>
+        <description>You can sign in or register if you already have an acount and ask questions</description>
     </item>
     </channel>
 </rss>
