@@ -209,7 +209,7 @@ body {
 
 #work-hours {
     height: 200px;
-    width: 400px;
+    width: 40%;
     padding: 10px;
     float: left;
 }
@@ -222,7 +222,7 @@ body {
 }
 
 #announ {
-    width: 580px;
+    width: 55%;
     float: right;
     text-align: center;
     padding-top: 10px;
